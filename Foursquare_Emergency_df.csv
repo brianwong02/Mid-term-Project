@@ -1,0 +1,51 @@
+,distance,name,geocodes.main.latitude,geocodes.main.longitude,geocodes.roof.longitude,location.formatted_address,location.neighborhood
+0,24268,Winthrop University Hospital ER,40.740896,-73.642371,-73.642371,"259 1st St, Mineola, NY 11501",
+1,21704,Lenox Health Greenwich Village,40.738015,-74.000777,-74.000751,"30 7th Ave (btwn 12th and 13th St), New York, NY 10011",['Chelsea']
+2,3632,38M1 Town of Pelham EMS,40.890265,-73.804414,-73.804414,"4 Penfield Pl (Clay Ave), Pelham, NY 10803",
+3,5301,Lawrence Hospital ER,40.941655,-73.837014,-73.837014,"55 Palmer Ave, Bronxville, NY 10708",['Cedar Knolls']
+4,6506,"Mount Sinai Doctors-Inwood, Urgent Care",40.868983,-73.916883,-73.916883,"5030 Broadway, New York, NY 10034",['Inwood']
+5,7566,NYC Ems 19C CSL,40.850222,-73.915387,-73.915387,"W Tremont Ave, Bronx, NY 10453",['Morris Heights']
+6,8402,FDNY EMS Station 26,40.830627,-73.900561,-73.900561,"1264 Boston Rd, Bronx, NY 10456",['Morrisania']
+7,8537,Throggs Neck Volunteer Ambulance,40.821257,-73.818201,-73.818201,"3955 E Tremont Ave (Sampson Ave), Bronx, NY 10465",['Silver Beach']
+8,11573,Scarsdale Volunteer Ambulance Corps,40.983739,-73.775029,-73.775029,"5 Weaver St, Scarsdale, NY 10583",
+9,11581,Riverbank State Park EMT office,40.827262,-73.952188,,"679 Riverside Dr, New York, NY 10031",['Hamilton Heights']
+10,11859,Mamaroneck Ems,40.957442,-73.729684,-73.729684,"473 N Barry Ave (Lester Ave), Mamaroneck, NY 10543",
+11,13006,AM/PM Walk In Urgent Care Center,40.927199,-73.995895,,"19 S Washington Ave, Bergenfield, NJ 07621",
+12,14591,Mt. Sinai Emergency Room,40.790329,-73.952253,-73.952253,"1468 Madison Ave (at E. 101st St.), New York, NY 10029",['Carnegie Hill']
+13,14857,Cure Urgent Care,40.785591,-73.949754,-73.949754,"175 E 96th St, New York, NY 10128",['Carnegie Hill']
+14,15453,North Shore LIJ Ambulance Post,40.757217,-73.873576,-73.873576,"Northern Blvd (at Junction Blvd), Queens, NY 11369",['Jackson Heights']
+15,16125,Irvington Volunteer Ambulance Corps,41.039068,-73.867998,-73.867998,"84 Main St, Irvington, NY 10533",
+16,17056,NewYork-Presbyterian Hospital - Emergency Department,40.764319,-73.954092,-73.954092,"525 E 68th St (at York Ave.), New York, NY 10065",['Lenox Hill']
+17,17624,HackensackUMC Emergency Room,40.884515,-74.056371,-74.056371,"Prospect Ave, Hackensack, NJ 07601",
+18,19414,LIJ Emergency Room,40.754818,-73.708578,-73.708578,"27005 76th Ave, New Hyde Park, NY 11040",['Glen Oaks']
+19,19962,NYU Medical Center Emergency Medicine,40.742141,-73.974243,-73.974243,"570 1st Ave (East 34 Street), New York, NY 10016",['East Side']
+20,19998,NYC EMS Hospital 15,40.742416,-73.974036,-73.974036,"560 1st Ave (at E 34th St), New York, NY 10016",['East Side']
+21,20056,Hillsdale Volunteer Ambulance Service,41.001987,-74.038988,-74.038988,"340 Washington Ave, Hillsdale, NJ 07642",
+22,21242,Mount Sinai Beth Israel Hospital Emergency Department,40.733331,-73.982851,-73.982851,"10 Nathan D Perlman Pl (At 1st Ave), New York, NY 10003",['East Village']
+23,22575,Woodhaven-Richmond Hill Volunteer Ambulance Corps,40.691994,-73.863937,-73.863937,"7815 Jamaica Ave (78 St), Woodhaven, NY 11421",['Woodhaven']
+24,22718,ModernMD Urgent Care - S.E. Williamsburg,40.703406,-73.942367,-73.942367,"68 Graham Ave (Varet Street), Brooklyn, NY 11206",['East Williasburg']
+25,23193,Fair Lawn Borough Volunteer Ambulance Corps,40.934374,-74.11831,-74.11831,"1 Coopers Way (Plaza Rd @ NJSH RT 208 No), Fair Lawn, NJ 07410",['Riverside Terrace']
+26,23595,Pearl River Alumni Ambulance,41.059431,-74.024642,,"15 N Pearl St, Pearl River, NY 10965",
+27,24183,Mineola Volunteer Ambulance Corps,40.746652,-73.636268,-73.636268,"170 Elm Pl (at Lincoln Ave), Mineola, NY 11501",['East Garden City']
+28,24246,Emergency Department At NYU Langone Hospital-Long Island,40.741847,-73.643187,-73.643187,"259 1st St, Mineola, NY 11501",['East Garden City']
+29,24891,AFC Urgent Care Howard Beach,40.671022,-73.855802,-73.855802,"13525 79th St, Howard Beach, NY 11414",['Lidenwood']
+30,25590,Nanuet Cmnty Ambulance,41.08734,-74.014989,-74.014989,"255 S Middletown Rd, Nanuet, NY 10954",
+31,25766,54I 10-89,40.667007,-73.789656,-73.789656,"N Conduit Ave (150 St), Jamaica, NY 11434",['South Jamaica']
+32,26059,NYU Langone Medical Center Cobble Hill,40.689942,-73.997862,-73.997862,"339 Hicks St, Brooklyn, NY 11201",['Brooklyn Heights']
+33,26426,Gulf Post JCMC EMS,40.725084,-74.06731,-74.06731,"Bergen Ave (Montgomery St), Jersey City, NJ 07306",['McGinley Square']
+34,27090,Ellis Island EMS Room,40.699098,-74.03963,-74.03963,"Ellis Island, New York, NY 10004",['Fort Jay']
+35,27269,Franklin Hospital ER,40.681426,-73.68691,-73.68691,"900 Franklin Ave, Valley Stream, NY 11580",['North Valley Stream']
+36,27506,NewYork-Presbyterian Brooklyn Methodist Hospital Emergency Department,40.668223,-73.979739,-73.979739,"506 6th St, Brooklyn, NY 11215",['Park Slope']
+37,27538,Methodist Hospital Emergency Room,40.668216,-73.980001,-73.980001,"506 6th St, Brooklyn, NY 11215",['Park Slope']
+38,27541,NYC EMS Hospital 54,40.668376,-73.98005,-73.98005,"7TH Ave, Brooklyn, NY 11215",['Park Slope']
+39,27677,NYC EMS Hospital 48,40.656639,-73.943499,-73.943499,"451 Clarkson Ave (at New York Ave), Brooklyn, NY 11203",['Rugby']
+40,29265,Kems,40.763897,-74.149302,-74.149302,"352 Maple St (Liberty St), Kearny, NJ 07032",['Arlington']
+41,30034,AFC Urgent Care Kearny,40.762548,-74.15877,,"276 Passaic Ave, Kearny, NJ 07032",['East Newark']
+42,31070,Numc Er,40.725815,-73.552828,,"2201 Hempstead Tpke (Carman Ave), East Meadow, NY 11554",
+43,31232,NYU Lutheran Emergency Department,40.646044,-74.020408,-74.020408,"5598 2nd Ave (at 56th St), Brooklyn, NY 11220",
+44,32641,Robert Kramer MD - South Nassau Community Hospital Er,40.650659,-73.631439,-73.631439,"1 Healthy Way, Oceanside, NY 11572",
+45,32769,Franklin Lakes Volunteer Ambulance Corps,41.019921,-74.200741,-74.200741,"Bender Court, Franklin Lakes, NJ 07417",
+46,33979,Bravo Volunteer Ambulance Service,40.618988,-74.020723,-74.020723,"8507 7th Ave (86th St), Brooklyn, NY 11228",['Dyker Heights']
+47,35497,Haverstraw Ambulance,41.197975,-73.979683,-73.979683,"160 Route 9W, Haverstraw, NY 10927",
+48,37021,NBIMC Baby Factory,40.7103,-74.213758,-74.213758,"201 Lyons Ave (at Newark Beth Israel), Newark, NJ 07112",['Townley']
+49,38612,Pompton Lakes/Riverdale First Aid Squad,40.993608,-74.288169,-74.288169,"700 Ramapo Ave, Pompton Lakes, NJ 07442",
